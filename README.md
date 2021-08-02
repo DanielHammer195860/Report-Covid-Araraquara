@@ -12,7 +12,7 @@ Generates a .pdf Report on Covid-19 cases and vaccinations in Araraquara-SP.
 ## Requirements
 The Jupyter Notebook uses the most important Python data science and visualization libraries, such as Matplotlib, Seaborn, Numpy, Scipy and Pandas. 
 
-Make sure to install also the json and urllib.request as long as the fpdf library in order to fetch additional data on covid-19 cases from an API and generate de .pdf report, respectively.
+Make sure to install also the json and urllib.request as long as the fpdf library in order to fetch additional data on covid-19 cases from an API and generate the .pdf report, respectively.
 
 ## How to use
 Please download both .ipynb and .xlxs files and run the Jupyter Notebook. Make sure that they are in the same directory. 
