@@ -1,4 +1,4 @@
-# Relatório Covid-19 Araraquara - SP
+# Relatório Covid-19 em Araraquara - SP
 Gera um arquivo .pdf com dados da de casos, óbitos, internações e vacinação na cidade de Araraquara-SP.
 
 <p align="center">
@@ -12,7 +12,7 @@ Gera um arquivo .pdf com dados da de casos, óbitos, internações e vacinação
 ## Requisitos
 O Jupyter notebook "Covid-19-Araraquara.ipynb" usa as famosas bibiotecas Matplotlib, Seaborn, Numpy, Scipy e Pandas, as quais necessariamente devem estar instaladas a fim de executar o código.
 
-Certifique-se tambem de instalar tambem json, urllib.request e FPDF. Sendo a última necessária para a geração do arquivo .pdf com o relatório.
+Certifique-se tambem de instalar tambem json, urllib.request e FPDF. Sendo a última necessária para a geração do arquivo .pdf.
 
 ## Como usar
 Baixe ambos arquivos .ipynb e .xlxs contendo o programa e os dados e execute a rotina. Certifique-se que ambos arquivos se encontram no mesmo diretório.
@@ -30,4 +30,4 @@ Por favor observe que este código não está completamente otimizado e definiti
 
 Sinta-se livre de usar tanto o código quanto os dados da maneira que quiser.
 
-Caso tiver alguma dúvida, mande um E-mail para d195860@dac.unicamp.br.
+Em caso de dúvidas, mande um E-mail para d195860@dac.unicamp.br.
